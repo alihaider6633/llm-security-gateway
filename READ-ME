@@ -1,0 +1,10 @@
+1. Clone repository
+git clone https://github.com/username/llm-security-gateway
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run system
+python main.py
+
+4. Test input through API endpoint
